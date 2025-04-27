@@ -1,0 +1,16 @@
+What’s the % diff between May 22’ and June 22’?:
+The percentage difference in revenue between May 2022 and June 2022 is -8.46%.
+
+What’s the weekday with the highest average revenue?:
+The weekday with the highest average revenue is Sunday.
+
+Which are the top 5 customers by revenue for June 2022 ?:
+The top 5 customers by revenue for June 2022 are:
+- Customer ID 341
+- Customer ID 148
+- Customer ID 109
+- Customer ID 339
+- Customer ID 342
+
+Which is the month with the most unique customers?:
+The month with the most unique customers with revenue >0 is June 2022.
